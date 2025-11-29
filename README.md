@@ -1,0 +1,1 @@
+A simple and interactive Stone–Paper–Scissor game built using HTML, CSS, and JavaScript. Features real-time gameplay against the computer, score tracking, dynamic UI updates, and smooth animations. Perfect beginner-friendly project demonstrating DOM manipulation and game logic.
